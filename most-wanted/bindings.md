@@ -49,3 +49,9 @@ better spent on [other most-wanted tasks](README-wanted.md).
   + SDL (WIP: [SDL](https://github.com/PerlGameDev/SDL6/))
 * 3D Graphics
   + OpenGL
+
+## Other
+
+* XML
+  + Libxml2
+  + Libxslt
