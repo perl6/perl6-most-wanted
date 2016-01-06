@@ -300,6 +300,7 @@ Internationalization and Natural Language Processing
   + IO::Prompter (WIP: [IO::Prompter](https://github.com/colomon/io-prompter/))
   + Term::ProgressBar (WIP: [Term::ProgressBar](https://github.com/sergot/Term--ProgressBar/))
   + Term::UI?
+  + Getopt::Long
 * Terminal
   + Term::Cap  (WIP: [Term::Cap](https://github.com/jonathanstowe/p6-Term-Cap))
   + Term::Complete
