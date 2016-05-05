@@ -317,3 +317,9 @@ Internationalization and Natural Language Processing
 * ExtUtils::Command or Shell::Command (WIP: [Shell::Command](https://github.com/tadzik/Shell-Command/))
 * App::Ack
 * Email::Filter
+
+## Web Frameworks
+
+* Mojolicious
+* Dancer
+* Catalyst
