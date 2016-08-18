@@ -129,6 +129,7 @@ Internationalization and Natural Language Processing
 
 * Email
   + Email::Sender
+  + Mime::Lite
 * HTTP
   + RobotUA?
   + OAuth
