@@ -218,6 +218,7 @@ Internationalization and Natural Language Processing
 
 * Command line
   + Term::UI?
+  + Getopt::Long
 * Terminal
   + Term::Cap  (WIP: [Term::Cap](https://github.com/jonathanstowe/p6-Term-Cap))
   + Term::Complete
