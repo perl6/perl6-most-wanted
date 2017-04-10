@@ -156,7 +156,6 @@ Internationalization and Natural Language Processing
   + NNTP
   + Ping
   + Telnet
-  + GraphQL (WIP: Contact me for more information: ctilmes@cpan.org)
 * Internet services
   + Net::GitHub::V3
   + App::ph
